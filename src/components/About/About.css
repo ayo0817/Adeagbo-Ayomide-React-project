@@ -1,0 +1,9 @@
+.about {
+  text-align: center;
+  padding: 40px;
+}
+
+.about img {
+  width: 150px;
+  border-radius: 50%;
+}
