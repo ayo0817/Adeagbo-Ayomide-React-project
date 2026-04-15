@@ -7,7 +7,7 @@ function About() {
 
 
       <p>
-        I am a Computer Science student named Ayomide Adeagbo with a strong interest in web development 
+        I am a Computer Science student named Wisdom Obanor with a strong interest in web development 
         and technology. I enjoy building simple and interactive websites using 
         tools like HTML, CSS, JavaScript, and React. I am passionate about learning 
         new skills and solving real-world problems through code.
